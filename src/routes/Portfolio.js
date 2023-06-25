@@ -67,14 +67,14 @@ const Portfolio = () => {
                     <a
                       href="https://github.com/sleepyhood/VaniliaJS2021_Momentum"
                       target="_blank"
-                      rel="noreferrer"
+                      rel="noopener noreferrer"
                     >
                       <i className="fab fa-github fa-3x"></i>
                     </a>
                     <a
                       href="https://sleepyhood.github.io/VaniliaJS2021_Momentum/"
                       target="_blank"
-                      rel="noreferrer"
+                      rel="noopener noreferrer"
                     >
                       <i className="fas fa-play-circle fa-3x"></i>
                     </a>
@@ -93,14 +93,14 @@ const Portfolio = () => {
                     <a
                       href="https://github.com/sleepyhood/nwitter"
                       target="_blank"
-                      rel="noreferrer"
+                      rel="noopener noreferrer"
                     >
                       <i className="fab fa-github fa-3x"></i>
                     </a>
                     <a
                       href="https://sleepyhood.github.io/nwitter/"
                       target="_blank"
-                      rel="noreferrer"
+                      rel="noopener noreferrer"
                     >
                       <i className="fas fa-play-circle fa-3x"></i>
                     </a>
@@ -119,14 +119,14 @@ const Portfolio = () => {
                     <a
                       href="https://github.com/sleepyhood/movie_app_2021"
                       target="_blank"
-                      rel="noreferrer"
+                      rel="noopener noreferrer"
                     >
                       <i className="fab fa-github fa-3x"></i>
                     </a>
                     <a
                       href="https://sleepyhood.github.io/movie_app_2021/"
                       target="_blank"
-                      rel="noreferrer"
+                      rel="noopener noreferrer"
                     >
                       <i className="fas fa-play-circle fa-3x"></i>
                     </a>
@@ -145,7 +145,7 @@ const Portfolio = () => {
                     <a
                       // href="https://github.com/sleepyhood/movie_app_2021"
                       target="_blank"
-                      rel="noreferrer"
+                      rel="noopener noreferrer"
                       style={{ opacity: "0.2" }}
                     >
                       <i className="fab fa-github fa-3x"></i>
@@ -171,7 +171,7 @@ const Portfolio = () => {
                     <a
                       href="https://github.com/sleepyhood/fokin-weather"
                       target="_blank"
-                      rel="noreferrer"
+                      rel="noopener noreferrer"
                     >
                       <i className="fab fa-github fa-3x"></i>
                     </a>

@@ -41,7 +41,7 @@ const Home = () => {
         <a
           href="https://github.com/sleepyhood"
           target="_blank"
-          rel="noreferrer"
+          rel="noopener noreferrer"
         >
           <i className="fab fa-github fa-3x"></i>
         </a>
